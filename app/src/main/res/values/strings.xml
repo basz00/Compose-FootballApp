@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+    <string name="founded">Founded</string>
+    <string name="venue">Venue</string>
+    <string name="head_coach">Head Coach</string>
+    <string name="age">(age %1$d years)</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+</resources>
